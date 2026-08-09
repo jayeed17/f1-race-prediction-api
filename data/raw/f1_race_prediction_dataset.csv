@@ -1,0 +1,920 @@
+season,round,race_name,circuit_name,driver,team,grid_position,qualifying_position,finishing_position,podium_label
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Max Verstappen,Red Bull,1,1,1,1
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Sergio Pérez,Red Bull,2,2,2,1
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Fernando Alonso,Aston Martin,5,5,3,1
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Carlos Sainz,Ferrari,4,4,4,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Lewis Hamilton,Mercedes,7,7,5,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Lance Stroll,Aston Martin,8,8,6,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,George Russell,Mercedes,6,6,7,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Valtteri Bottas,Alfa Romeo,12,12,8,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Pierre Gasly,Alpine F1 Team,20,20,9,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Alexander Albon,Williams,15,15,10,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Yuki Tsunoda,AlphaTauri,14,14,11,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Logan Sargeant,Williams,16,16,12,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Kevin Magnussen,Haas F1 Team,17,17,13,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Nyck de Vries,AlphaTauri,19,19,14,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Nico Hülkenberg,Haas F1 Team,10,10,15,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Guanyu Zhou,Alfa Romeo,13,13,16,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Lando Norris,McLaren,11,11,17,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Esteban Ocon,Alpine F1 Team,9,9,18,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Charles Leclerc,Ferrari,3,3,19,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Oscar Piastri,McLaren,18,18,20,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Sergio Pérez,Red Bull,1,1,1,1
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Max Verstappen,Red Bull,15,15,2,1
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Fernando Alonso,Aston Martin,2,3,3,1
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,George Russell,Mercedes,3,4,4,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lewis Hamilton,Mercedes,7,8,5,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Carlos Sainz,Ferrari,4,5,6,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Charles Leclerc,Ferrari,12,2,7,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Esteban Ocon,Alpine F1 Team,6,7,8,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Pierre Gasly,Alpine F1 Team,9,10,9,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Kevin Magnussen,Haas F1 Team,13,13,10,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Yuki Tsunoda,AlphaTauri,16,16,11,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Nico Hülkenberg,Haas F1 Team,10,11,12,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Guanyu Zhou,Alfa Romeo,11,12,13,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Nyck de Vries,AlphaTauri,18,18,14,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Oscar Piastri,McLaren,8,9,15,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Logan Sargeant,Williams,20,20,16,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lando Norris,McLaren,19,19,17,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Valtteri Bottas,Alfa Romeo,14,14,18,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Alexander Albon,Williams,17,17,19,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lance Stroll,Aston Martin,5,6,20,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Max Verstappen,Red Bull,1,1,1,1
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Lewis Hamilton,Mercedes,3,3,2,1
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Fernando Alonso,Aston Martin,4,4,3,1
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Lance Stroll,Aston Martin,6,6,4,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Sergio Pérez,Red Bull,20,20,5,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Lando Norris,McLaren,13,13,6,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Nico Hülkenberg,Haas F1 Team,10,10,7,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Oscar Piastri,McLaren,16,16,8,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Guanyu Zhou,Alfa Romeo,17,17,9,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Yuki Tsunoda,AlphaTauri,12,12,10,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Valtteri Bottas,Alfa Romeo,19,19,11,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Carlos Sainz,Ferrari,5,5,12,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Pierre Gasly,Alpine F1 Team,9,9,13,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Esteban Ocon,Alpine F1 Team,11,11,14,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Nyck de Vries,AlphaTauri,15,15,15,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Logan Sargeant,Williams,18,18,16,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Kevin Magnussen,Haas F1 Team,14,14,17,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,George Russell,Mercedes,2,2,18,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Alexander Albon,Williams,8,8,19,0
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Charles Leclerc,Ferrari,7,7,20,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Sergio Pérez,Red Bull,3,3,1,1
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Max Verstappen,Red Bull,2,2,2,1
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Charles Leclerc,Ferrari,1,1,3,1
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Fernando Alonso,Aston Martin,6,6,4,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Carlos Sainz,Ferrari,4,4,5,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Lewis Hamilton,Mercedes,5,5,6,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Lance Stroll,Aston Martin,9,9,7,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,George Russell,Mercedes,11,11,8,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Lando Norris,McLaren,7,7,9,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Yuki Tsunoda,AlphaTauri,8,8,10,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Oscar Piastri,McLaren,10,10,11,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Alexander Albon,Williams,12,13,12,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Kevin Magnussen,Haas F1 Team,16,18,13,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Pierre Gasly,Alpine F1 Team,17,19,14,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Esteban Ocon,Alpine F1 Team,19,12,15,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Logan Sargeant,Williams,14,15,16,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Nico Hülkenberg,Haas F1 Team,20,17,17,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Valtteri Bottas,Alfa Romeo,13,14,18,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Guanyu Zhou,Alfa Romeo,15,16,19,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Nyck de Vries,AlphaTauri,18,20,20,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Max Verstappen,Red Bull,9,9,1,1
+2023,5,Miami Grand Prix,Miami International Autodrome,Sergio Pérez,Red Bull,1,1,2,1
+2023,5,Miami Grand Prix,Miami International Autodrome,Fernando Alonso,Aston Martin,2,2,3,1
+2023,5,Miami Grand Prix,Miami International Autodrome,George Russell,Mercedes,6,6,4,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Carlos Sainz,Ferrari,3,3,5,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Lewis Hamilton,Mercedes,13,13,6,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Charles Leclerc,Ferrari,7,7,7,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Pierre Gasly,Alpine F1 Team,5,5,8,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Esteban Ocon,Alpine F1 Team,8,8,9,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Kevin Magnussen,Haas F1 Team,4,4,10,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Yuki Tsunoda,AlphaTauri,17,17,11,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Lance Stroll,Aston Martin,18,18,12,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Valtteri Bottas,Alfa Romeo,10,10,13,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Alexander Albon,Williams,11,11,14,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Nico Hülkenberg,Haas F1 Team,12,12,15,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Guanyu Zhou,Alfa Romeo,14,14,16,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Lando Norris,McLaren,16,16,17,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Nyck de Vries,AlphaTauri,15,15,18,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Oscar Piastri,McLaren,19,19,19,0
+2023,5,Miami Grand Prix,Miami International Autodrome,Logan Sargeant,Williams,20,20,20,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Max Verstappen,Red Bull,1,1,1,1
+2023,6,Monaco Grand Prix,Circuit de Monaco,Fernando Alonso,Aston Martin,2,2,2,1
+2023,6,Monaco Grand Prix,Circuit de Monaco,Esteban Ocon,Alpine F1 Team,3,4,3,1
+2023,6,Monaco Grand Prix,Circuit de Monaco,Lewis Hamilton,Mercedes,5,6,4,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,George Russell,Mercedes,8,8,5,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Charles Leclerc,Ferrari,6,3,6,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Pierre Gasly,Alpine F1 Team,7,7,7,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Carlos Sainz,Ferrari,4,5,8,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Lando Norris,McLaren,10,10,9,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Oscar Piastri,McLaren,11,11,10,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Valtteri Bottas,Alfa Romeo,15,15,11,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Nyck de Vries,AlphaTauri,12,12,12,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Guanyu Zhou,Alfa Romeo,19,19,13,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Alexander Albon,Williams,13,13,14,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Yuki Tsunoda,AlphaTauri,9,9,15,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Sergio Pérez,Red Bull,20,20,16,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Nico Hülkenberg,Haas F1 Team,18,18,17,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Logan Sargeant,Williams,16,16,18,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Kevin Magnussen,Haas F1 Team,17,17,19,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,Lance Stroll,Aston Martin,14,14,20,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Max Verstappen,Red Bull,1,1,1,1
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lewis Hamilton,Mercedes,4,5,2,1
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,George Russell,Mercedes,12,12,3,1
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Sergio Pérez,Red Bull,11,11,4,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Carlos Sainz,Ferrari,2,2,5,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lance Stroll,Aston Martin,5,6,6,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Fernando Alonso,Aston Martin,8,9,7,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Esteban Ocon,Alpine F1 Team,6,7,8,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Guanyu Zhou,Alfa Romeo,13,13,9,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Pierre Gasly,Alpine F1 Team,10,4,10,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Charles Leclerc,Ferrari,19,19,11,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Yuki Tsunoda,AlphaTauri,15,15,12,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Oscar Piastri,McLaren,9,10,13,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Nyck de Vries,AlphaTauri,14,14,14,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Nico Hülkenberg,Haas F1 Team,7,8,15,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Alexander Albon,Williams,18,18,16,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lando Norris,McLaren,3,3,17,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Kevin Magnussen,Haas F1 Team,17,17,18,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Valtteri Bottas,Alfa Romeo,16,16,19,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Logan Sargeant,Williams,20,20,20,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Max Verstappen,Red Bull,1,1,1,1
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Fernando Alonso,Aston Martin,2,3,2,1
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Lewis Hamilton,Mercedes,3,4,3,1
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Charles Leclerc,Ferrari,10,11,4,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Carlos Sainz,Ferrari,11,8,5,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Sergio Pérez,Red Bull,12,12,6,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Alexander Albon,Williams,9,10,7,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Esteban Ocon,Alpine F1 Team,6,6,8,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Lance Stroll,Aston Martin,16,13,9,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Valtteri Bottas,Alfa Romeo,14,15,10,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Oscar Piastri,McLaren,8,9,11,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Pierre Gasly,Alpine F1 Team,15,17,12,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Lando Norris,McLaren,7,7,13,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Yuki Tsunoda,AlphaTauri,19,16,14,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Nico Hülkenberg,Haas F1 Team,5,2,15,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Guanyu Zhou,Alfa Romeo,20,20,16,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Kevin Magnussen,Haas F1 Team,13,14,17,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Nyck de Vries,AlphaTauri,17,18,18,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,George Russell,Mercedes,4,5,19,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Logan Sargeant,Williams,18,19,20,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Max Verstappen,Red Bull,1,1,1,1
+2023,9,Austrian Grand Prix,Red Bull Ring,Charles Leclerc,Ferrari,2,2,2,1
+2023,9,Austrian Grand Prix,Red Bull Ring,Sergio Pérez,Red Bull,15,15,3,1
+2023,9,Austrian Grand Prix,Red Bull Ring,Lando Norris,McLaren,4,4,4,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Fernando Alonso,Aston Martin,7,7,5,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Carlos Sainz,Ferrari,3,3,6,0
+2023,9,Austrian Grand Prix,Red Bull Ring,George Russell,Mercedes,11,11,7,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Lewis Hamilton,Mercedes,5,5,8,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Lance Stroll,Aston Martin,6,6,9,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Pierre Gasly,Alpine F1 Team,9,9,10,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Alexander Albon,Williams,10,10,11,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Guanyu Zhou,Alfa Romeo,17,17,12,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Logan Sargeant,Williams,18,18,13,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Esteban Ocon,Alpine F1 Team,12,12,14,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Valtteri Bottas,Alfa Romeo,14,14,15,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Oscar Piastri,McLaren,13,13,16,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Nyck de Vries,AlphaTauri,20,20,17,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Kevin Magnussen,Haas F1 Team,19,19,18,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Yuki Tsunoda,AlphaTauri,16,16,19,0
+2023,9,Austrian Grand Prix,Red Bull Ring,Nico Hülkenberg,Haas F1 Team,8,8,20,0
+2023,10,British Grand Prix,Silverstone Circuit,Max Verstappen,Red Bull,1,1,1,1
+2023,10,British Grand Prix,Silverstone Circuit,Lando Norris,McLaren,2,2,2,1
+2023,10,British Grand Prix,Silverstone Circuit,Lewis Hamilton,Mercedes,7,7,3,1
+2023,10,British Grand Prix,Silverstone Circuit,Oscar Piastri,McLaren,3,3,4,0
+2023,10,British Grand Prix,Silverstone Circuit,George Russell,Mercedes,6,6,5,0
+2023,10,British Grand Prix,Silverstone Circuit,Sergio Pérez,Red Bull,15,15,6,0
+2023,10,British Grand Prix,Silverstone Circuit,Fernando Alonso,Aston Martin,9,9,7,0
+2023,10,British Grand Prix,Silverstone Circuit,Alexander Albon,Williams,8,8,8,0
+2023,10,British Grand Prix,Silverstone Circuit,Charles Leclerc,Ferrari,4,4,9,0
+2023,10,British Grand Prix,Silverstone Circuit,Carlos Sainz,Ferrari,5,5,10,0
+2023,10,British Grand Prix,Silverstone Circuit,Logan Sargeant,Williams,14,14,11,0
+2023,10,British Grand Prix,Silverstone Circuit,Valtteri Bottas,Alfa Romeo,20,15,12,0
+2023,10,British Grand Prix,Silverstone Circuit,Nico Hülkenberg,Haas F1 Team,11,11,13,0
+2023,10,British Grand Prix,Silverstone Circuit,Lance Stroll,Aston Martin,12,12,14,0
+2023,10,British Grand Prix,Silverstone Circuit,Guanyu Zhou,Alfa Romeo,17,17,15,0
+2023,10,British Grand Prix,Silverstone Circuit,Yuki Tsunoda,AlphaTauri,16,16,16,0
+2023,10,British Grand Prix,Silverstone Circuit,Nyck de Vries,AlphaTauri,18,18,17,0
+2023,10,British Grand Prix,Silverstone Circuit,Pierre Gasly,Alpine F1 Team,10,10,18,0
+2023,10,British Grand Prix,Silverstone Circuit,Kevin Magnussen,Haas F1 Team,19,19,19,0
+2023,10,British Grand Prix,Silverstone Circuit,Esteban Ocon,Alpine F1 Team,13,13,20,0
+2023,11,Hungarian Grand Prix,Hungaroring,Max Verstappen,Red Bull,2,2,1,1
+2023,11,Hungarian Grand Prix,Hungaroring,Lando Norris,McLaren,3,3,2,1
+2023,11,Hungarian Grand Prix,Hungaroring,Sergio Pérez,Red Bull,9,9,3,1
+2023,11,Hungarian Grand Prix,Hungaroring,Lewis Hamilton,Mercedes,1,1,4,0
+2023,11,Hungarian Grand Prix,Hungaroring,Oscar Piastri,McLaren,4,4,5,0
+2023,11,Hungarian Grand Prix,Hungaroring,George Russell,Mercedes,18,18,6,0
+2023,11,Hungarian Grand Prix,Hungaroring,Charles Leclerc,Ferrari,6,6,7,0
+2023,11,Hungarian Grand Prix,Hungaroring,Carlos Sainz,Ferrari,11,11,8,0
+2023,11,Hungarian Grand Prix,Hungaroring,Fernando Alonso,Aston Martin,8,8,9,0
+2023,11,Hungarian Grand Prix,Hungaroring,Lance Stroll,Aston Martin,14,14,10,0
+2023,11,Hungarian Grand Prix,Hungaroring,Alexander Albon,Williams,16,16,11,0
+2023,11,Hungarian Grand Prix,Hungaroring,Valtteri Bottas,Alfa Romeo,7,7,12,0
+2023,11,Hungarian Grand Prix,Hungaroring,Daniel Ricciardo,AlphaTauri,13,13,13,0
+2023,11,Hungarian Grand Prix,Hungaroring,Nico Hülkenberg,Haas F1 Team,10,10,14,0
+2023,11,Hungarian Grand Prix,Hungaroring,Yuki Tsunoda,AlphaTauri,17,17,15,0
+2023,11,Hungarian Grand Prix,Hungaroring,Guanyu Zhou,Alfa Romeo,5,5,16,0
+2023,11,Hungarian Grand Prix,Hungaroring,Kevin Magnussen,Haas F1 Team,19,19,17,0
+2023,11,Hungarian Grand Prix,Hungaroring,Logan Sargeant,Williams,20,20,18,0
+2023,11,Hungarian Grand Prix,Hungaroring,Esteban Ocon,Alpine F1 Team,12,12,19,0
+2023,11,Hungarian Grand Prix,Hungaroring,Pierre Gasly,Alpine F1 Team,15,15,20,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Max Verstappen,Red Bull,6,1,1,1
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Sergio Pérez,Red Bull,2,3,2,1
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Charles Leclerc,Ferrari,1,2,3,1
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Lewis Hamilton,Mercedes,3,4,4,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Fernando Alonso,Aston Martin,9,9,5,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,George Russell,Mercedes,8,8,6,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Lando Norris,McLaren,7,7,7,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Esteban Ocon,Alpine F1 Team,14,15,8,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Lance Stroll,Aston Martin,10,10,9,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Yuki Tsunoda,AlphaTauri,11,11,10,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Pierre Gasly,Alpine F1 Team,12,12,11,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Valtteri Bottas,Alfa Romeo,13,14,12,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Guanyu Zhou,Alfa Romeo,17,17,13,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Alexander Albon,Williams,15,16,14,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Kevin Magnussen,Haas F1 Team,16,13,15,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Daniel Ricciardo,AlphaTauri,19,19,16,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Logan Sargeant,Williams,18,18,17,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Nico Hülkenberg,Haas F1 Team,20,20,18,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Carlos Sainz,Ferrari,4,5,19,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Oscar Piastri,McLaren,5,6,20,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Max Verstappen,Red Bull,1,1,1,1
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Fernando Alonso,Aston Martin,5,5,2,1
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Pierre Gasly,Alpine F1 Team,12,12,3,1
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Sergio Pérez,Red Bull,7,7,4,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Carlos Sainz,Ferrari,6,6,5,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Lewis Hamilton,Mercedes,13,13,6,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Lando Norris,McLaren,2,2,7,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Alexander Albon,Williams,4,4,8,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Oscar Piastri,McLaren,8,8,9,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Esteban Ocon,Alpine F1 Team,16,17,10,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Lance Stroll,Aston Martin,11,11,11,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Nico Hülkenberg,Haas F1 Team,14,15,12,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Liam Lawson,AlphaTauri,19,20,13,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Valtteri Bottas,Alfa Romeo,18,19,14,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Yuki Tsunoda,AlphaTauri,17,14,15,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Kevin Magnussen,Haas F1 Team,0,18,16,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,George Russell,Mercedes,3,3,17,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Guanyu Zhou,Alfa Romeo,15,16,18,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Charles Leclerc,Ferrari,9,9,19,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,Logan Sargeant,Williams,10,10,20,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Max Verstappen,Red Bull,2,2,1,1
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Sergio Pérez,Red Bull,5,5,2,1
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Carlos Sainz,Ferrari,1,1,3,1
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Charles Leclerc,Ferrari,3,3,4,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,George Russell,Mercedes,4,4,5,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Lewis Hamilton,Mercedes,8,8,6,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Alexander Albon,Williams,6,6,7,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Lando Norris,McLaren,9,9,8,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Fernando Alonso,Aston Martin,10,10,9,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Valtteri Bottas,Alfa Romeo,14,14,10,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Liam Lawson,AlphaTauri,12,12,11,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Oscar Piastri,McLaren,7,7,12,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Logan Sargeant,Williams,15,15,13,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Guanyu Zhou,Alfa Romeo,16,16,14,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Pierre Gasly,Alpine F1 Team,17,17,15,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Lance Stroll,Aston Martin,20,20,16,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Nico Hülkenberg,Haas F1 Team,13,13,17,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Kevin Magnussen,Haas F1 Team,19,19,18,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Esteban Ocon,Alpine F1 Team,18,18,19,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,Yuki Tsunoda,AlphaTauri,11,11,20,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Carlos Sainz,Ferrari,1,1,1,1
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Lando Norris,McLaren,4,4,2,1
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Lewis Hamilton,Mercedes,5,5,3,1
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Charles Leclerc,Ferrari,3,3,4,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Max Verstappen,Red Bull,11,11,5,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Pierre Gasly,Alpine F1 Team,12,12,6,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Oscar Piastri,McLaren,17,17,7,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Sergio Pérez,Red Bull,13,13,8,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Liam Lawson,AlphaTauri,10,10,9,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Kevin Magnussen,Haas F1 Team,6,6,10,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Alexander Albon,Williams,14,14,11,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Guanyu Zhou,Alfa Romeo,19,19,12,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Nico Hülkenberg,Haas F1 Team,9,9,13,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Logan Sargeant,Williams,18,18,14,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Fernando Alonso,Aston Martin,7,7,15,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,George Russell,Mercedes,2,2,16,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Valtteri Bottas,Alfa Romeo,16,16,17,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Esteban Ocon,Alpine F1 Team,8,8,18,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Yuki Tsunoda,AlphaTauri,15,15,19,0
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Lance Stroll,Aston Martin,0,20,20,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Max Verstappen,Red Bull,1,1,1,1
+2023,16,Japanese Grand Prix,Suzuka Circuit,Lando Norris,McLaren,3,3,2,1
+2023,16,Japanese Grand Prix,Suzuka Circuit,Oscar Piastri,McLaren,2,2,3,1
+2023,16,Japanese Grand Prix,Suzuka Circuit,Charles Leclerc,Ferrari,4,4,4,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Lewis Hamilton,Mercedes,7,7,5,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Carlos Sainz,Ferrari,6,6,6,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,George Russell,Mercedes,8,8,7,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Fernando Alonso,Aston Martin,10,10,8,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Esteban Ocon,Alpine F1 Team,14,14,9,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Pierre Gasly,Alpine F1 Team,12,12,10,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Liam Lawson,AlphaTauri,11,11,11,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Yuki Tsunoda,AlphaTauri,9,9,12,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Guanyu Zhou,Alfa Romeo,19,19,13,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Nico Hülkenberg,Haas F1 Team,18,18,14,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Kevin Magnussen,Haas F1 Team,15,15,15,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Alexander Albon,Williams,13,13,16,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Logan Sargeant,Williams,20,20,17,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Lance Stroll,Aston Martin,17,17,18,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Sergio Pérez,Red Bull,5,5,19,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,Valtteri Bottas,Alfa Romeo,16,16,20,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Max Verstappen,Red Bull,1,1,1,1
+2023,17,Qatar Grand Prix,Losail International Circuit,Oscar Piastri,McLaren,6,6,2,1
+2023,17,Qatar Grand Prix,Losail International Circuit,Lando Norris,McLaren,10,10,3,1
+2023,17,Qatar Grand Prix,Losail International Circuit,George Russell,Mercedes,2,2,4,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Charles Leclerc,Ferrari,5,5,5,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Fernando Alonso,Aston Martin,4,4,6,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Esteban Ocon,Alpine F1 Team,8,8,7,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Valtteri Bottas,Alfa Romeo,9,9,8,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Guanyu Zhou,Alfa Romeo,19,20,9,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Sergio Pérez,Red Bull,20,13,10,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Lance Stroll,Aston Martin,16,17,11,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Pierre Gasly,Alpine F1 Team,7,7,12,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Alexander Albon,Williams,13,14,13,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Kevin Magnussen,Haas F1 Team,18,19,14,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Yuki Tsunoda,AlphaTauri,11,11,15,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Nico Hülkenberg,Haas F1 Team,14,15,16,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Liam Lawson,AlphaTauri,17,18,17,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Logan Sargeant,Williams,15,16,18,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Lewis Hamilton,Mercedes,3,3,19,0
+2023,17,Qatar Grand Prix,Losail International Circuit,Carlos Sainz,Ferrari,12,12,20,0
+2023,18,United States Grand Prix,Circuit of the Americas,Max Verstappen,Red Bull,6,6,1,1
+2023,18,United States Grand Prix,Circuit of the Americas,Lando Norris,McLaren,2,2,2,1
+2023,18,United States Grand Prix,Circuit of the Americas,Carlos Sainz,Ferrari,4,4,3,1
+2023,18,United States Grand Prix,Circuit of the Americas,Sergio Pérez,Red Bull,9,9,4,0
+2023,18,United States Grand Prix,Circuit of the Americas,George Russell,Mercedes,5,5,5,0
+2023,18,United States Grand Prix,Circuit of the Americas,Pierre Gasly,Alpine F1 Team,7,7,6,0
+2023,18,United States Grand Prix,Circuit of the Americas,Lance Stroll,Aston Martin,20,19,7,0
+2023,18,United States Grand Prix,Circuit of the Americas,Yuki Tsunoda,AlphaTauri,11,11,8,0
+2023,18,United States Grand Prix,Circuit of the Americas,Alexander Albon,Williams,15,18,9,0
+2023,18,United States Grand Prix,Circuit of the Americas,Logan Sargeant,Williams,16,20,10,0
+2023,18,United States Grand Prix,Circuit of the Americas,Nico Hülkenberg,Haas F1 Team,18,16,11,0
+2023,18,United States Grand Prix,Circuit of the Americas,Valtteri Bottas,Alfa Romeo,13,13,12,0
+2023,18,United States Grand Prix,Circuit of the Americas,Guanyu Zhou,Alfa Romeo,12,12,13,0
+2023,18,United States Grand Prix,Circuit of the Americas,Kevin Magnussen,Haas F1 Team,17,14,14,0
+2023,18,United States Grand Prix,Circuit of the Americas,Daniel Ricciardo,AlphaTauri,14,15,15,0
+2023,18,United States Grand Prix,Circuit of the Americas,Fernando Alonso,Aston Martin,19,17,16,0
+2023,18,United States Grand Prix,Circuit of the Americas,Oscar Piastri,McLaren,10,10,17,0
+2023,18,United States Grand Prix,Circuit of the Americas,Esteban Ocon,Alpine F1 Team,8,8,18,0
+2023,18,United States Grand Prix,Circuit of the Americas,Lewis Hamilton,Mercedes,3,3,19,0
+2023,18,United States Grand Prix,Circuit of the Americas,Charles Leclerc,Ferrari,1,1,20,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull,3,3,1,1
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Lewis Hamilton,Mercedes,6,6,2,1
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Charles Leclerc,Ferrari,1,1,3,1
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Carlos Sainz,Ferrari,2,2,4,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Lando Norris,McLaren,17,19,5,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,George Russell,Mercedes,8,8,6,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Daniel Ricciardo,AlphaTauri,4,4,7,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Oscar Piastri,McLaren,7,7,8,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Alexander Albon,Williams,14,14,9,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Esteban Ocon,Alpine F1 Team,15,16,10,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Pierre Gasly,Alpine F1 Team,11,11,11,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Yuki Tsunoda,AlphaTauri,18,15,12,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Nico Hülkenberg,Haas F1 Team,12,12,13,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Guanyu Zhou,Alfa Romeo,10,10,14,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Valtteri Bottas,Alfa Romeo,9,9,15,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Logan Sargeant,Williams,19,20,16,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Lance Stroll,Aston Martin,0,18,17,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Fernando Alonso,Aston Martin,13,13,18,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Kevin Magnussen,Haas F1 Team,16,17,19,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Sergio Pérez,Red Bull,5,5,20,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Max Verstappen,Red Bull,1,1,1,1
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Lando Norris,McLaren,6,7,2,1
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Fernando Alonso,Aston Martin,4,4,3,1
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Sergio Pérez,Red Bull,9,9,4,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Lance Stroll,Aston Martin,3,3,5,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Carlos Sainz,Ferrari,7,8,6,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Pierre Gasly,Alpine F1 Team,15,13,7,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Lewis Hamilton,Mercedes,5,5,8,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Yuki Tsunoda,AlphaTauri,16,16,9,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Esteban Ocon,Alpine F1 Team,14,12,10,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Logan Sargeant,Williams,19,19,11,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Nico Hülkenberg,Haas F1 Team,11,11,12,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Daniel Ricciardo,AlphaTauri,17,17,13,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Oscar Piastri,McLaren,10,10,14,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,George Russell,Mercedes,8,6,15,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Valtteri Bottas,Alfa Romeo,18,18,16,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Guanyu Zhou,Alfa Romeo,20,20,17,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Kevin Magnussen,Haas F1 Team,12,14,18,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Alexander Albon,Williams,13,15,19,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,Charles Leclerc,Ferrari,2,2,20,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Max Verstappen,Red Bull,2,3,1,1
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Charles Leclerc,Ferrari,1,1,2,1
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Sergio Pérez,Red Bull,11,12,3,1
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Esteban Ocon,Alpine F1 Team,16,17,4,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Lance Stroll,Aston Martin,19,14,5,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Carlos Sainz,Ferrari,12,2,6,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Lewis Hamilton,Mercedes,10,11,7,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,George Russell,Mercedes,3,4,8,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Fernando Alonso,Aston Martin,9,10,9,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Oscar Piastri,McLaren,18,19,10,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Pierre Gasly,Alpine F1 Team,4,5,11,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Alexander Albon,Williams,5,6,12,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Kevin Magnussen,Haas F1 Team,8,9,13,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Daniel Ricciardo,AlphaTauri,14,15,14,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Guanyu Zhou,Alfa Romeo,17,18,15,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Logan Sargeant,Williams,6,7,16,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Valtteri Bottas,Alfa Romeo,7,8,17,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Yuki Tsunoda,AlphaTauri,20,20,18,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Nico Hülkenberg,Haas F1 Team,13,13,19,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Lando Norris,McLaren,15,16,20,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Max Verstappen,Red Bull,1,1,1,1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Charles Leclerc,Ferrari,2,2,2,1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,George Russell,Mercedes,4,4,3,1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Sergio Pérez,Red Bull,9,9,4,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Lando Norris,McLaren,5,5,5,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Oscar Piastri,McLaren,3,3,6,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Fernando Alonso,Aston Martin,7,7,7,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Yuki Tsunoda,AlphaTauri,6,6,8,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Lewis Hamilton,Mercedes,11,11,9,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Lance Stroll,Aston Martin,13,13,10,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Daniel Ricciardo,AlphaTauri,15,15,11,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Esteban Ocon,Alpine F1 Team,12,12,12,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Pierre Gasly,Alpine F1 Team,10,10,13,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Alexander Albon,Williams,14,14,14,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Nico Hülkenberg,Haas F1 Team,8,8,15,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Logan Sargeant,Williams,20,20,16,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Guanyu Zhou,Alfa Romeo,19,19,17,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Carlos Sainz,Ferrari,16,16,18,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Valtteri Bottas,Alfa Romeo,18,18,19,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Kevin Magnussen,Haas F1 Team,17,17,20,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Max Verstappen,Red Bull,1,1,1,1
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Sergio Pérez,Red Bull,5,5,2,1
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Carlos Sainz,Ferrari,4,4,3,1
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Charles Leclerc,Ferrari,2,2,4,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,George Russell,Mercedes,3,3,5,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Lando Norris,McLaren,7,7,6,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Lewis Hamilton,Mercedes,9,9,7,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Oscar Piastri,McLaren,8,8,8,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Fernando Alonso,Aston Martin,6,6,9,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Lance Stroll,Aston Martin,12,12,10,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Guanyu Zhou,Sauber,17,17,11,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Kevin Magnussen,Haas F1 Team,15,15,12,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Daniel Ricciardo,RB F1 Team,14,14,13,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Yuki Tsunoda,RB F1 Team,11,11,14,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Alexander Albon,Williams,13,13,15,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Nico Hülkenberg,Haas F1 Team,10,10,16,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Esteban Ocon,Alpine F1 Team,19,19,17,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Pierre Gasly,Alpine F1 Team,20,20,18,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Valtteri Bottas,Sauber,16,16,19,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Logan Sargeant,Williams,18,18,20,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Max Verstappen,Red Bull,1,1,1,1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Sergio Pérez,Red Bull,3,3,2,1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Charles Leclerc,Ferrari,2,2,3,1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Oscar Piastri,McLaren,5,5,4,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Fernando Alonso,Aston Martin,4,4,5,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,George Russell,Mercedes,7,7,6,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Oliver Bearman,Ferrari,11,11,7,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lando Norris,McLaren,6,6,8,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lewis Hamilton,Mercedes,8,8,9,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Nico Hülkenberg,Haas F1 Team,15,15,10,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Alexander Albon,Williams,12,12,11,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Kevin Magnussen,Haas F1 Team,13,13,12,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Esteban Ocon,Alpine F1 Team,17,17,13,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Logan Sargeant,Williams,19,19,14,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Yuki Tsunoda,RB F1 Team,9,9,15,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Daniel Ricciardo,RB F1 Team,14,14,16,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Valtteri Bottas,Sauber,16,16,17,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Guanyu Zhou,Sauber,20,20,18,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lance Stroll,Aston Martin,10,10,19,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Pierre Gasly,Alpine F1 Team,18,18,20,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Carlos Sainz,Ferrari,2,2,1,1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Charles Leclerc,Ferrari,4,5,2,1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Lando Norris,McLaren,3,4,3,1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Oscar Piastri,McLaren,5,6,4,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Sergio Pérez,Red Bull,6,3,5,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Lance Stroll,Aston Martin,9,9,6,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Yuki Tsunoda,RB F1 Team,8,8,7,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Fernando Alonso,Aston Martin,10,10,8,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Nico Hülkenberg,Haas F1 Team,16,16,9,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Kevin Magnussen,Haas F1 Team,14,14,10,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Alexander Albon,Williams,12,12,11,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Daniel Ricciardo,RB F1 Team,18,18,12,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Pierre Gasly,Alpine F1 Team,17,17,13,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Valtteri Bottas,Sauber,13,13,14,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Guanyu Zhou,Sauber,19,19,15,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Esteban Ocon,Alpine F1 Team,15,15,16,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,George Russell,Mercedes,7,7,17,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Lewis Hamilton,Mercedes,11,11,18,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,Max Verstappen,Red Bull,1,1,19,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Max Verstappen,Red Bull,1,1,1,1
+2024,4,Japanese Grand Prix,Suzuka Circuit,Sergio Pérez,Red Bull,2,2,2,1
+2024,4,Japanese Grand Prix,Suzuka Circuit,Carlos Sainz,Ferrari,4,4,3,1
+2024,4,Japanese Grand Prix,Suzuka Circuit,Charles Leclerc,Ferrari,8,8,4,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Lando Norris,McLaren,3,3,5,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Fernando Alonso,Aston Martin,5,5,6,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,George Russell,Mercedes,9,9,7,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Oscar Piastri,McLaren,6,6,8,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Lewis Hamilton,Mercedes,7,7,9,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Yuki Tsunoda,RB F1 Team,10,10,10,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Nico Hülkenberg,Haas F1 Team,12,12,11,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Lance Stroll,Aston Martin,16,16,12,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Kevin Magnussen,Haas F1 Team,18,18,13,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Valtteri Bottas,Sauber,13,13,14,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Esteban Ocon,Alpine F1 Team,15,15,15,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Pierre Gasly,Alpine F1 Team,17,17,16,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Logan Sargeant,Williams,19,19,17,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Guanyu Zhou,Sauber,20,20,18,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Daniel Ricciardo,RB F1 Team,11,11,19,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,Alexander Albon,Williams,14,14,20,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Max Verstappen,Red Bull,1,1,1,1
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Lando Norris,McLaren,4,4,2,1
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Sergio Pérez,Red Bull,2,2,3,1
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Charles Leclerc,Ferrari,6,6,4,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Carlos Sainz,Ferrari,7,7,5,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,George Russell,Mercedes,8,8,6,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Fernando Alonso,Aston Martin,3,3,7,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Oscar Piastri,McLaren,5,5,8,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Lewis Hamilton,Mercedes,18,18,9,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Nico Hülkenberg,Haas F1 Team,9,9,10,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Esteban Ocon,Alpine F1 Team,13,13,11,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Alexander Albon,Williams,14,14,12,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Pierre Gasly,Alpine F1 Team,15,15,13,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Guanyu Zhou,Sauber,16,16,14,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Lance Stroll,Aston Martin,11,11,15,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Kevin Magnussen,Haas F1 Team,17,17,16,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Logan Sargeant,Williams,20,20,17,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Daniel Ricciardo,RB F1 Team,12,12,18,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Yuki Tsunoda,RB F1 Team,19,19,19,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Valtteri Bottas,Sauber,10,10,20,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Lando Norris,McLaren,5,5,1,1
+2024,6,Miami Grand Prix,Miami International Autodrome,Max Verstappen,Red Bull,1,1,2,1
+2024,6,Miami Grand Prix,Miami International Autodrome,Charles Leclerc,Ferrari,2,2,3,1
+2024,6,Miami Grand Prix,Miami International Autodrome,Sergio Pérez,Red Bull,4,4,4,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Carlos Sainz,Ferrari,3,3,5,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Lewis Hamilton,Mercedes,8,8,6,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Yuki Tsunoda,RB F1 Team,10,10,7,0
+2024,6,Miami Grand Prix,Miami International Autodrome,George Russell,Mercedes,7,7,8,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Fernando Alonso,Aston Martin,15,15,9,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Esteban Ocon,Alpine F1 Team,13,13,10,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Nico Hülkenberg,Haas F1 Team,9,9,11,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Pierre Gasly,Alpine F1 Team,12,12,12,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Oscar Piastri,McLaren,6,6,13,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Guanyu Zhou,Sauber,19,20,14,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Daniel Ricciardo,RB F1 Team,20,18,15,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Valtteri Bottas,Sauber,16,16,16,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Lance Stroll,Aston Martin,11,11,17,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Alexander Albon,Williams,14,14,18,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Kevin Magnussen,Haas F1 Team,18,19,19,0
+2024,6,Miami Grand Prix,Miami International Autodrome,Logan Sargeant,Williams,17,17,20,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Max Verstappen,Red Bull,1,1,1,1
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Lando Norris,McLaren,2,3,2,1
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Charles Leclerc,Ferrari,3,4,3,1
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Oscar Piastri,McLaren,5,2,4,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Carlos Sainz,Ferrari,4,5,5,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Lewis Hamilton,Mercedes,8,8,6,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,George Russell,Mercedes,6,6,7,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Sergio Pérez,Red Bull,11,11,8,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Lance Stroll,Aston Martin,13,13,9,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Yuki Tsunoda,RB F1 Team,7,7,10,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Nico Hülkenberg,Haas F1 Team,10,10,11,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Kevin Magnussen,Haas F1 Team,18,18,12,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Daniel Ricciardo,RB F1 Team,9,9,13,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Esteban Ocon,Alpine F1 Team,12,12,14,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Guanyu Zhou,Sauber,17,17,15,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Pierre Gasly,Alpine F1 Team,15,15,16,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Logan Sargeant,Williams,19,20,17,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Valtteri Bottas,Sauber,16,16,18,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Fernando Alonso,Aston Martin,20,19,19,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Alexander Albon,Williams,14,14,20,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Charles Leclerc,Ferrari,1,1,1,1
+2024,8,Monaco Grand Prix,Circuit de Monaco,Oscar Piastri,McLaren,2,2,2,1
+2024,8,Monaco Grand Prix,Circuit de Monaco,Carlos Sainz,Ferrari,3,3,3,1
+2024,8,Monaco Grand Prix,Circuit de Monaco,Lando Norris,McLaren,4,4,4,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,George Russell,Mercedes,5,5,5,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Max Verstappen,Red Bull,6,6,6,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Lewis Hamilton,Mercedes,7,7,7,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Yuki Tsunoda,RB F1 Team,8,8,8,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Alexander Albon,Williams,9,9,9,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Pierre Gasly,Alpine F1 Team,10,10,10,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Fernando Alonso,Aston Martin,14,14,11,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Daniel Ricciardo,RB F1 Team,12,12,12,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Valtteri Bottas,Sauber,17,17,13,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Lance Stroll,Aston Martin,13,13,14,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Logan Sargeant,Williams,15,15,15,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Guanyu Zhou,Sauber,18,18,16,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Esteban Ocon,Alpine F1 Team,11,11,17,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Sergio Pérez,Red Bull,16,16,18,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Nico Hülkenberg,Haas F1 Team,19,14,19,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,Kevin Magnussen,Haas F1 Team,20,15,20,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Max Verstappen,Red Bull,2,2,1,1
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Lando Norris,McLaren,3,3,2,1
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,George Russell,Mercedes,1,1,3,1
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Lewis Hamilton,Mercedes,7,7,4,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Oscar Piastri,McLaren,4,4,5,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Fernando Alonso,Aston Martin,6,6,6,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Lance Stroll,Aston Martin,9,9,7,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Daniel Ricciardo,RB F1 Team,5,5,8,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Pierre Gasly,Alpine F1 Team,15,15,9,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Esteban Ocon,Alpine F1 Team,18,18,10,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Nico Hülkenberg,Haas F1 Team,17,19,11,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Kevin Magnussen,Haas F1 Team,14,14,12,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Valtteri Bottas,Sauber,19,17,13,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Yuki Tsunoda,RB F1 Team,8,8,14,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Guanyu Zhou,Sauber,20,20,15,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Carlos Sainz,Ferrari,12,12,16,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Alexander Albon,Williams,10,10,17,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Sergio Pérez,Red Bull,16,16,18,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Charles Leclerc,Ferrari,11,11,19,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Logan Sargeant,Williams,13,13,20,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Max Verstappen,Red Bull,2,2,1,1
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lando Norris,McLaren,1,1,2,1
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lewis Hamilton,Mercedes,3,3,3,1
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,George Russell,Mercedes,4,4,4,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Charles Leclerc,Ferrari,5,5,5,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Carlos Sainz,Ferrari,6,6,6,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Oscar Piastri,McLaren,9,10,7,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Sergio Pérez,Red Bull,11,8,8,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Pierre Gasly,Alpine F1 Team,7,7,9,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Esteban Ocon,Alpine F1 Team,8,9,10,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Nico Hülkenberg,Haas F1 Team,13,13,11,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Fernando Alonso,Aston Martin,10,11,12,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Guanyu Zhou,Sauber,15,15,13,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lance Stroll,Aston Martin,14,14,14,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Daniel Ricciardo,RB F1 Team,18,18,15,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Valtteri Bottas,Sauber,12,12,16,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Kevin Magnussen,Haas F1 Team,16,16,17,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Alexander Albon,Williams,20,19,18,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Yuki Tsunoda,RB F1 Team,17,17,19,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Logan Sargeant,Williams,19,20,20,0
+2024,11,Austrian Grand Prix,Red Bull Ring,George Russell,Mercedes,3,3,1,1
+2024,11,Austrian Grand Prix,Red Bull Ring,Oscar Piastri,McLaren,7,7,2,1
+2024,11,Austrian Grand Prix,Red Bull Ring,Carlos Sainz,Ferrari,4,4,3,1
+2024,11,Austrian Grand Prix,Red Bull Ring,Lewis Hamilton,Mercedes,5,5,4,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Max Verstappen,Red Bull,1,1,5,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Nico Hülkenberg,Haas F1 Team,9,9,6,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Sergio Pérez,Red Bull,8,8,7,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Kevin Magnussen,Haas F1 Team,12,12,8,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Daniel Ricciardo,RB F1 Team,11,11,9,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Pierre Gasly,Alpine F1 Team,13,13,10,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Charles Leclerc,Ferrari,6,6,11,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Esteban Ocon,Alpine F1 Team,10,10,12,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Lance Stroll,Aston Martin,17,17,13,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Yuki Tsunoda,RB F1 Team,14,14,14,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Alexander Albon,Williams,16,16,15,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Valtteri Bottas,Sauber,18,18,16,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Guanyu Zhou,Sauber,20,20,17,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Fernando Alonso,Aston Martin,15,15,18,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Logan Sargeant,Williams,19,19,19,0
+2024,11,Austrian Grand Prix,Red Bull Ring,Lando Norris,McLaren,2,2,20,0
+2024,12,British Grand Prix,Silverstone Circuit,Lewis Hamilton,Mercedes,2,2,1,1
+2024,12,British Grand Prix,Silverstone Circuit,Max Verstappen,Red Bull,4,4,2,1
+2024,12,British Grand Prix,Silverstone Circuit,Lando Norris,McLaren,3,3,3,1
+2024,12,British Grand Prix,Silverstone Circuit,Oscar Piastri,McLaren,5,5,4,0
+2024,12,British Grand Prix,Silverstone Circuit,Carlos Sainz,Ferrari,7,7,5,0
+2024,12,British Grand Prix,Silverstone Circuit,Nico Hülkenberg,Haas F1 Team,6,6,6,0
+2024,12,British Grand Prix,Silverstone Circuit,Lance Stroll,Aston Martin,8,8,7,0
+2024,12,British Grand Prix,Silverstone Circuit,Fernando Alonso,Aston Martin,10,10,8,0
+2024,12,British Grand Prix,Silverstone Circuit,Alexander Albon,Williams,9,9,9,0
+2024,12,British Grand Prix,Silverstone Circuit,Yuki Tsunoda,RB F1 Team,13,13,10,0
+2024,12,British Grand Prix,Silverstone Circuit,Logan Sargeant,Williams,12,12,11,0
+2024,12,British Grand Prix,Silverstone Circuit,Kevin Magnussen,Haas F1 Team,17,17,12,0
+2024,12,British Grand Prix,Silverstone Circuit,Daniel Ricciardo,RB F1 Team,15,15,13,0
+2024,12,British Grand Prix,Silverstone Circuit,Charles Leclerc,Ferrari,11,11,14,0
+2024,12,British Grand Prix,Silverstone Circuit,Valtteri Bottas,Sauber,16,16,15,0
+2024,12,British Grand Prix,Silverstone Circuit,Esteban Ocon,Alpine F1 Team,18,18,16,0
+2024,12,British Grand Prix,Silverstone Circuit,Sergio Pérez,Red Bull,20,19,17,0
+2024,12,British Grand Prix,Silverstone Circuit,Guanyu Zhou,Sauber,14,14,18,0
+2024,12,British Grand Prix,Silverstone Circuit,George Russell,Mercedes,1,1,19,0
+2024,12,British Grand Prix,Silverstone Circuit,Pierre Gasly,Alpine F1 Team,19,20,20,0
+2024,13,Hungarian Grand Prix,Hungaroring,Oscar Piastri,McLaren,2,2,1,1
+2024,13,Hungarian Grand Prix,Hungaroring,Lando Norris,McLaren,1,1,2,1
+2024,13,Hungarian Grand Prix,Hungaroring,Lewis Hamilton,Mercedes,5,5,3,1
+2024,13,Hungarian Grand Prix,Hungaroring,Charles Leclerc,Ferrari,6,6,4,0
+2024,13,Hungarian Grand Prix,Hungaroring,Max Verstappen,Red Bull,3,3,5,0
+2024,13,Hungarian Grand Prix,Hungaroring,Carlos Sainz,Ferrari,4,4,6,0
+2024,13,Hungarian Grand Prix,Hungaroring,Sergio Pérez,Red Bull,16,16,7,0
+2024,13,Hungarian Grand Prix,Hungaroring,George Russell,Mercedes,17,17,8,0
+2024,13,Hungarian Grand Prix,Hungaroring,Yuki Tsunoda,RB F1 Team,10,10,9,0
+2024,13,Hungarian Grand Prix,Hungaroring,Lance Stroll,Aston Martin,8,8,10,0
+2024,13,Hungarian Grand Prix,Hungaroring,Fernando Alonso,Aston Martin,7,7,11,0
+2024,13,Hungarian Grand Prix,Hungaroring,Daniel Ricciardo,RB F1 Team,9,9,12,0
+2024,13,Hungarian Grand Prix,Hungaroring,Nico Hülkenberg,Haas F1 Team,11,11,13,0
+2024,13,Hungarian Grand Prix,Hungaroring,Alexander Albon,Williams,13,13,14,0
+2024,13,Hungarian Grand Prix,Hungaroring,Kevin Magnussen,Haas F1 Team,15,15,15,0
+2024,13,Hungarian Grand Prix,Hungaroring,Valtteri Bottas,Sauber,12,12,16,0
+2024,13,Hungarian Grand Prix,Hungaroring,Logan Sargeant,Williams,14,14,17,0
+2024,13,Hungarian Grand Prix,Hungaroring,Esteban Ocon,Alpine F1 Team,19,19,18,0
+2024,13,Hungarian Grand Prix,Hungaroring,Guanyu Zhou,Sauber,18,18,19,0
+2024,13,Hungarian Grand Prix,Hungaroring,Pierre Gasly,Alpine F1 Team,20,20,20,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Lewis Hamilton,Mercedes,3,4,1,1
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Oscar Piastri,McLaren,5,6,2,1
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Charles Leclerc,Ferrari,1,2,3,1
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Max Verstappen,Red Bull,11,1,4,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Lando Norris,McLaren,4,5,5,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Carlos Sainz,Ferrari,7,8,6,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Sergio Pérez,Red Bull,2,3,7,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Fernando Alonso,Aston Martin,8,9,8,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Esteban Ocon,Alpine F1 Team,9,10,9,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Daniel Ricciardo,RB F1 Team,13,13,10,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Lance Stroll,Aston Martin,15,15,11,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Alexander Albon,Williams,10,11,12,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Pierre Gasly,Alpine F1 Team,12,12,13,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Kevin Magnussen,Haas F1 Team,17,17,14,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Valtteri Bottas,Sauber,14,14,15,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Yuki Tsunoda,RB F1 Team,20,18,16,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Logan Sargeant,Williams,18,19,17,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Nico Hülkenberg,Haas F1 Team,16,16,18,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,Guanyu Zhou,Sauber,19,20,19,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,George Russell,Mercedes,6,7,20,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Lando Norris,McLaren,1,1,1,1
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Max Verstappen,Red Bull,2,2,2,1
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Charles Leclerc,Ferrari,6,6,3,1
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Oscar Piastri,McLaren,3,3,4,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Carlos Sainz,Ferrari,10,10,5,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Sergio Pérez,Red Bull,5,5,6,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,George Russell,Mercedes,4,4,7,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Lewis Hamilton,Mercedes,14,11,8,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Pierre Gasly,Alpine F1 Team,9,9,9,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Fernando Alonso,Aston Martin,7,7,10,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Nico Hülkenberg,Haas F1 Team,12,13,11,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Daniel Ricciardo,RB F1 Team,13,15,12,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Lance Stroll,Aston Martin,8,8,13,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Alexander Albon,Williams,19,10,14,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Esteban Ocon,Alpine F1 Team,15,16,15,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Logan Sargeant,Williams,18,20,16,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Yuki Tsunoda,RB F1 Team,11,12,17,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Kevin Magnussen,Haas F1 Team,20,14,18,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Valtteri Bottas,Sauber,16,17,19,0
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,Guanyu Zhou,Sauber,17,18,20,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Charles Leclerc,Ferrari,4,4,1,1
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Oscar Piastri,McLaren,2,2,2,1
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Lando Norris,McLaren,1,1,3,1
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Carlos Sainz,Ferrari,5,5,4,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Lewis Hamilton,Mercedes,6,6,5,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Max Verstappen,Red Bull,7,7,6,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,George Russell,Mercedes,3,3,7,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Sergio Pérez,Red Bull,8,8,8,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Alexander Albon,Williams,9,9,9,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Kevin Magnussen,Haas F1 Team,13,13,10,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Fernando Alonso,Aston Martin,11,11,11,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Franco Colapinto,Williams,18,18,12,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Daniel Ricciardo,RB F1 Team,12,12,13,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Esteban Ocon,Alpine F1 Team,15,15,14,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Pierre Gasly,Alpine F1 Team,14,14,15,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Valtteri Bottas,Sauber,19,19,16,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Nico Hülkenberg,Haas F1 Team,10,10,17,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Guanyu Zhou,Sauber,20,20,18,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Lance Stroll,Aston Martin,17,17,19,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,Yuki Tsunoda,RB F1 Team,16,16,20,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Oscar Piastri,McLaren,2,2,1,1
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Charles Leclerc,Ferrari,1,1,2,1
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,George Russell,Mercedes,5,5,3,1
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Lando Norris,McLaren,15,16,4,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Max Verstappen,Red Bull,6,6,5,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Fernando Alonso,Aston Martin,7,8,6,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Alexander Albon,Williams,9,10,7,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Franco Colapinto,Williams,8,9,8,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Lewis Hamilton,Mercedes,19,7,9,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Oliver Bearman,Haas F1 Team,10,11,10,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Nico Hülkenberg,Haas F1 Team,12,13,11,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Pierre Gasly,Alpine F1 Team,18,15,12,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Daniel Ricciardo,RB F1 Team,14,15,13,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Guanyu Zhou,Sauber,17,18,14,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Esteban Ocon,Alpine F1 Team,20,19,15,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Valtteri Bottas,Sauber,16,17,16,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Sergio Pérez,Red Bull,4,4,17,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Carlos Sainz,Ferrari,3,3,18,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Lance Stroll,Aston Martin,13,14,19,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Yuki Tsunoda,RB F1 Team,11,12,20,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Lando Norris,McLaren,1,1,1,1
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Max Verstappen,Red Bull,2,2,2,1
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Oscar Piastri,McLaren,5,5,3,1
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,George Russell,Mercedes,4,4,4,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Charles Leclerc,Ferrari,9,9,5,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Lewis Hamilton,Mercedes,3,3,6,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Carlos Sainz,Ferrari,10,10,7,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Fernando Alonso,Aston Martin,7,7,8,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Nico Hülkenberg,Haas F1 Team,6,6,9,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Sergio Pérez,Red Bull,13,13,10,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Franco Colapinto,Williams,12,12,11,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Yuki Tsunoda,RB F1 Team,8,8,12,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Esteban Ocon,Alpine F1 Team,15,15,13,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Lance Stroll,Aston Martin,17,17,14,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Guanyu Zhou,Sauber,20,20,15,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Valtteri Bottas,Sauber,19,19,16,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Pierre Gasly,Alpine F1 Team,18,18,17,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Daniel Ricciardo,RB F1 Team,16,16,18,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Kevin Magnussen,Haas F1 Team,14,14,19,0
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Alexander Albon,Williams,11,11,20,0
+2024,19,United States Grand Prix,Circuit of the Americas,Charles Leclerc,Ferrari,4,4,1,1
+2024,19,United States Grand Prix,Circuit of the Americas,Carlos Sainz,Ferrari,3,3,2,1
+2024,19,United States Grand Prix,Circuit of the Americas,Max Verstappen,Red Bull,2,2,3,1
+2024,19,United States Grand Prix,Circuit of the Americas,Lando Norris,McLaren,1,1,4,0
+2024,19,United States Grand Prix,Circuit of the Americas,Oscar Piastri,McLaren,5,5,5,0
+2024,19,United States Grand Prix,Circuit of the Americas,George Russell,Mercedes,20,6,6,0
+2024,19,United States Grand Prix,Circuit of the Americas,Sergio Pérez,Red Bull,9,10,7,0
+2024,19,United States Grand Prix,Circuit of the Americas,Nico Hülkenberg,Haas F1 Team,11,12,8,0
+2024,19,United States Grand Prix,Circuit of the Americas,Liam Lawson,RB F1 Team,19,15,9,0
+2024,19,United States Grand Prix,Circuit of the Americas,Franco Colapinto,Williams,15,17,10,0
+2024,19,United States Grand Prix,Circuit of the Americas,Kevin Magnussen,Haas F1 Team,8,9,11,0
+2024,19,United States Grand Prix,Circuit of the Americas,Pierre Gasly,Alpine F1 Team,6,7,12,0
+2024,19,United States Grand Prix,Circuit of the Americas,Fernando Alonso,Aston Martin,7,8,13,0
+2024,19,United States Grand Prix,Circuit of the Americas,Yuki Tsunoda,RB F1 Team,10,11,14,0
+2024,19,United States Grand Prix,Circuit of the Americas,Lance Stroll,Aston Martin,13,14,15,0
+2024,19,United States Grand Prix,Circuit of the Americas,Alexander Albon,Williams,14,16,16,0
+2024,19,United States Grand Prix,Circuit of the Americas,Valtteri Bottas,Sauber,16,18,17,0
+2024,19,United States Grand Prix,Circuit of the Americas,Esteban Ocon,Alpine F1 Team,12,13,18,0
+2024,19,United States Grand Prix,Circuit of the Americas,Guanyu Zhou,Sauber,18,20,19,0
+2024,19,United States Grand Prix,Circuit of the Americas,Lewis Hamilton,Mercedes,17,19,20,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Carlos Sainz,Ferrari,1,1,1,1
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Lando Norris,McLaren,3,3,2,1
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Charles Leclerc,Ferrari,4,4,3,1
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Lewis Hamilton,Mercedes,6,6,4,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,George Russell,Mercedes,5,5,5,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull,2,2,6,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Kevin Magnussen,Haas F1 Team,7,7,7,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Oscar Piastri,McLaren,17,17,8,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Nico Hülkenberg,Haas F1 Team,10,10,9,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Pierre Gasly,Alpine F1 Team,8,8,10,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Lance Stroll,Aston Martin,14,14,11,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Franco Colapinto,Williams,16,16,12,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Esteban Ocon,Alpine F1 Team,0,19,13,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Valtteri Bottas,Sauber,15,15,14,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Guanyu Zhou,Sauber,19,20,15,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Liam Lawson,RB F1 Team,12,12,16,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Sergio Pérez,Red Bull,18,18,17,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Fernando Alonso,Aston Martin,13,13,18,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Alexander Albon,Williams,9,9,19,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Yuki Tsunoda,RB F1 Team,11,11,20,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Max Verstappen,Red Bull,17,12,1,1
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Esteban Ocon,Alpine F1 Team,4,4,2,1
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Pierre Gasly,Alpine F1 Team,13,15,3,1
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,George Russell,Mercedes,2,2,4,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Charles Leclerc,Ferrari,6,6,5,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Lando Norris,McLaren,1,1,6,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Yuki Tsunoda,RB F1 Team,3,3,7,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Oscar Piastri,McLaren,8,8,8,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Liam Lawson,RB F1 Team,5,5,9,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Lewis Hamilton,Mercedes,14,16,10,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Sergio Pérez,Red Bull,12,13,11,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Oliver Bearman,Haas F1 Team,15,17,12,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Valtteri Bottas,Sauber,11,11,13,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Fernando Alonso,Aston Martin,9,9,14,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Guanyu Zhou,Sauber,19,20,15,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Carlos Sainz,Ferrari,20,14,16,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Franco Colapinto,Williams,16,18,17,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Alexander Albon,Williams,7,7,18,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Lance Stroll,Aston Martin,10,10,19,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,Nico Hülkenberg,Haas F1 Team,18,19,20,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,George Russell,Mercedes,1,1,1,1
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Lewis Hamilton,Mercedes,10,10,2,1
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Carlos Sainz,Ferrari,2,2,3,1
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Charles Leclerc,Ferrari,4,4,4,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Max Verstappen,Red Bull,5,5,5,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Lando Norris,McLaren,6,6,6,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Oscar Piastri,McLaren,8,8,7,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Nico Hülkenberg,Haas F1 Team,9,9,8,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Yuki Tsunoda,RB F1 Team,7,7,9,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Sergio Pérez,Red Bull,15,16,10,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Fernando Alonso,Aston Martin,16,17,11,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Kevin Magnussen,Haas F1 Team,12,12,12,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Guanyu Zhou,Sauber,13,13,13,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Franco Colapinto,Williams,20,14,14,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Lance Stroll,Aston Martin,18,20,15,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Liam Lawson,RB F1 Team,14,15,16,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Esteban Ocon,Alpine F1 Team,11,11,17,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Valtteri Bottas,Sauber,19,19,18,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Alexander Albon,Williams,17,18,19,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,Pierre Gasly,Alpine F1 Team,3,3,20,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Max Verstappen,Red Bull,2,1,1,1
+2024,23,Qatar Grand Prix,Losail International Circuit,Charles Leclerc,Ferrari,5,5,2,1
+2024,23,Qatar Grand Prix,Losail International Circuit,Oscar Piastri,McLaren,4,4,3,1
+2024,23,Qatar Grand Prix,Losail International Circuit,George Russell,Mercedes,1,2,4,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Pierre Gasly,Alpine F1 Team,11,11,5,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Carlos Sainz,Ferrari,7,7,6,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Fernando Alonso,Aston Martin,8,8,7,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Guanyu Zhou,Sauber,12,12,8,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Kevin Magnussen,Haas F1 Team,10,10,9,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Lando Norris,McLaren,3,3,10,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Valtteri Bottas,Sauber,13,13,11,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Lewis Hamilton,Mercedes,6,6,12,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Yuki Tsunoda,RB F1 Team,14,14,13,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Liam Lawson,RB F1 Team,17,17,14,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Alexander Albon,Williams,16,16,15,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Nico Hülkenberg,Haas F1 Team,18,18,16,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Sergio Pérez,Red Bull,9,9,17,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Lance Stroll,Aston Martin,15,15,18,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Franco Colapinto,Williams,19,19,19,0
+2024,23,Qatar Grand Prix,Losail International Circuit,Esteban Ocon,Alpine F1 Team,20,20,20,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Lando Norris,McLaren,1,1,1,1
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Carlos Sainz,Ferrari,3,3,2,1
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Charles Leclerc,Ferrari,19,14,3,1
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Lewis Hamilton,Mercedes,16,18,4,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,George Russell,Mercedes,6,7,5,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Max Verstappen,Red Bull,4,5,6,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Pierre Gasly,Alpine F1 Team,5,6,7,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Nico Hülkenberg,Haas F1 Team,7,4,8,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Fernando Alonso,Aston Martin,8,8,9,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Oscar Piastri,McLaren,2,2,10,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Alexander Albon,Williams,18,16,11,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Yuki Tsunoda,RB F1 Team,11,11,12,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Guanyu Zhou,Sauber,15,17,13,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Lance Stroll,Aston Martin,13,13,14,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Jack Doohan,Alpine F1 Team,17,20,15,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Kevin Magnussen,Haas F1 Team,14,15,16,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Liam Lawson,RB F1 Team,12,12,17,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Valtteri Bottas,Sauber,9,9,18,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Franco Colapinto,Williams,20,19,19,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Sergio Pérez,Red Bull,10,10,20,0

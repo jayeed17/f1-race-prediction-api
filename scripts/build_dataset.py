@@ -1,37 +1,45 @@
+import os
 import time
 from typing import List, Dict, Any
 
 import pandas as pd
 import requests
 
-BASE_URL = "https://ergast.com/api/f1"
+BASE_URL = "https://api.jolpi.ca/ergast/f1"
+
+MAX_RETRIES = 5
+
+
+def get_json(url: str) -> Dict[str, Any]:
+    for attempt in range(MAX_RETRIES):
+        response = requests.get(url, timeout=30)
+        if response.status_code == 429:
+            wait = int(response.headers.get("Retry-After", 2 ** (attempt + 1)))
+            print(f"Rate limited, retrying in {wait}s...")
+            time.sleep(wait)
+            continue
+        response.raise_for_status()
+        return response.json()
+
+    raise RuntimeError(f"Exceeded max retries fetching {url}")
 
 
 def get_schedule(season: int) -> List[Dict[str, Any]]:
     url = f"{BASE_URL}/{season}.json"
-    response = requests.get(url, timeout=30)
-    response.raise_for_status()
-
-    data = response.json()
+    data = get_json(url)
     return data["MRData"]["RaceTable"]["Races"]
 
 
 def get_race_results(season: int, round_num: int) -> List[Dict[str, Any]]:
     url = f"{BASE_URL}/{season}/{round_num}/results.json?limit=100"
-    response = requests.get(url, timeout=30)
-    response.raise_for_status()
-
-    data = response.json()
+    data = get_json(url)
     races = data["MRData"]["RaceTable"]["Races"]
     return races[0]["Results"] if races else []
 
 
 def get_qualifying_results(season: int, round_num: int) -> List[Dict[str, Any]]:
     url = f"{BASE_URL}/{season}/{round_num}/qualifying.json?limit=100"
-    response = requests.get(url, timeout=30)
-    response.raise_for_status()
-
-    data = response.json()
+    data = get_json(url)
     races = data["MRData"]["RaceTable"]["Races"]
     return races[0]["QualifyingResults"] if races else []
 
@@ -109,7 +117,7 @@ def build_dataset(start_season: int, end_season: int) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    df = build_dataset(2018, 2024)
+    df = build_dataset(2023, 2024)
 
     df = df.drop_duplicates()
 
@@ -129,6 +137,7 @@ if __name__ == "__main__":
     ]
 
     output_path = "data/raw/f1_race_prediction_dataset.csv"
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
     df.to_csv(output_path, index=False)
 
     print("\nDataset saved successfully.")
